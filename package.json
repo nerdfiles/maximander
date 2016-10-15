@@ -1,0 +1,22 @@
+{
+  "name": "pynaximander",
+  "version": "0.0.1",
+  "description": "Static code analysis for interpreted languages",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "languages"
+  ],
+  "author": "nerdfiles",
+  "license": "WTFPL",
+  "dependencies": {
+    "mogrifier": "^0.2.0",
+    "natural": "^0.4.0",
+    "simple-statistics": "^2.1.0"
+  }
+}
